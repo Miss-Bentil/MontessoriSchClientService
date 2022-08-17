@@ -1,0 +1,4 @@
+grpc:
+  client:
+    grpc-motessori-service:
+      address: static://localhost:8082
